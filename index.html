@@ -5,8 +5,12 @@ title: Home
 
 {% include intro.html %}
 
+
 <section class="post-list">
   <div class="container">
+
+    <img src="https://raw.githubusercontent.com/practicalovertone/practicalovertone.github.io/master/assets/images/00-Motivation/Comparison.png">
+
     {% for post in site.posts %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
