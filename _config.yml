@@ -1,14 +1,14 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
+title_left    : "Practical"
+title_right   : "Overtone" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+keywords      : "Music theory, Vocal Pedagogy, VoceVista, Barbershop Harmony, Overtone"
+url           : https://practicalovertone.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
+google_analytics  : UA-138885568-1
+twitter_username  : "@ctfhacker"
 comments_enabled  : false # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
 postshare_enabled : false
@@ -28,9 +28,9 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Cory Duplantis"
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - bourbon
   - jekyll-paginate
@@ -42,4 +42,4 @@ navbar:
   - slug : blog
     title: Blog
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script"]
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md", "script", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]

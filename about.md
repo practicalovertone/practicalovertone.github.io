@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+I'm a simple [barbershop](https://barbershop.org) singer trying to understand more about music theory and vocal acoustics. This blog is mostly a ramblings of various things I've found useful.
