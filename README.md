@@ -6,8 +6,6 @@
 
 - **Demo:** https://heiswayi.github.io/thinkspace/
 
-![SCREENSHOT](https://i.imgur.com/1YS078k.png)
-
 ## License
 
 [MIT](LICENSE.md)
