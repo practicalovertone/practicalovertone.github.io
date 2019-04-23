@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Practical"
 title_right   : "Overtone" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
+description   : "Barbershop + Vocal Analysis"
 keywords      : "Music theory, Vocal Pedagogy, VoceVista, Barbershop Harmony, Overtone"
 url           : https://practicalovertone.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
