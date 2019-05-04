@@ -15,7 +15,7 @@ I discovered the analysis of vocal signals while potentially looking into develo
 * Bright
 * Pressed
 * Tight
-* Dark
+* Darke
 * Dopey
 
 I've always had a problem connecting with these subjective terms and always thought I just didn't have the proper ear training to hear the subtle differences in these vocal timbres. My research into analysis of vocal signals was a hope that there could be an objective, third-party tool that we point to when conveying one of these subjective terms. This is where I found [VoceVista](https://www.vicevista.com).
@@ -31,6 +31,10 @@ We are looking at the same passage, of the same song, in the same key by two dif
 ##### Vocal analysis is to the voice as music theory was to written music
 
 Music was written for hundreds of years before we formally started analyzing its structure. In the same way, I'm hoping vocal analysis will give us the same insight into the voice and making us overall better singers.
+
+## Disclosure
+
+I'm just some guy on the internet who enjoys researching in this space. If any information is wrong or misconstrued, please let me know. I'm just trying to give some ideas and analysis of things I've found interesting.
 
 ---
 
