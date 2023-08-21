@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Practical Overflow
-description: Acoustic analysis to the voice is music theory to arranging
+description: Acoustic analysis exploration
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://practicaloverflow.github.io" 
 
