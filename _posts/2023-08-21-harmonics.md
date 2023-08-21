@@ -47,7 +47,7 @@ to each note individually.
 </div>
 
 Let's filter the sound again, but this time add the frequencies from high to low. Listen
-in particularly to when you can hear the original note.
+in particularly to when you can perceive the original note.
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
     <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
