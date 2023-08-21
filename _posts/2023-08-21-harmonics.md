@@ -59,3 +59,7 @@ in particularly to when you can perceive the original note.
 The original sound slowly turns from individual notes and collapses into a sound that 
 we perceive as one note. In reality, there are dozens of individual notes that make up
 the note being sung.
+
+## Observation 
+
+### Every note that we sing is made up of dozens of individual notes
