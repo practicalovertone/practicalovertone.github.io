@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Can you sing dozens of notes at once?"
+title: "Can you sing 100 notes at once?"
 comments: true
 description: "Exploration of harmonics"
 keywords: "vocevista, barbershop harmony, music theory"
@@ -16,6 +16,7 @@ Let's begin exploring harmonics with a simple AH vowel.
         Your browser does not support the audio tag.
     </audio>
 </div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
 
 To begin this exploration, we're going to use [VoceVista](https://www.vocevista.com/) to help
 us visualize the audio from our above sample.
@@ -45,6 +46,7 @@ to each note individually.
         Your browser does not support the video tag.
     </video>
 </div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
 
 Let's filter the sound again, but this time add the frequencies from high to low. Listen
 in particularly to when you can perceive the original note.
@@ -55,11 +57,14 @@ in particularly to when you can perceive the original note.
         Your browser does not support the video tag.
     </video>
 </div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
 
 The original sound slowly turns from individual notes and collapses into a sound that 
-we perceive as one note. In reality, there are dozens of individual notes that make up
-the note being sung.
+we perceive as one note. In reality, there are potentially hundreds of individual notes that 
+make up the note being sung.
+
+#### We call these higher notes - harmonics
 
 ## Observation 
 
-### Every note that we sing is made up of dozens of individual notes
+### Every note that we perceive is made up of dozens of individual notes which we call harmonics 
