@@ -66,6 +66,74 @@ make up the note being sung.
 
 #### We call these higher notes - harmonics
 
+## Examples
+
+### Pitch - E2
+
+```
+Quartet: After Hours
+Song:    Bring Me Sunshine
+Singer:  Dan Wessler
+```
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+    <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <source src="/assets/00-harmonics/04_AfterHours_BringMeSunshine_E2.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
+
+### Pitch - G3
+
+```
+Quartet: Forefront
+Song:    Lost
+Singer:  Brian O'Dell
+```
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+    <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <source src="/assets/00-harmonics/07_Forefront_Lost_G3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
+
+### Pitch - Bb3
+
+```
+Quartet: Clutch
+Song:    Give Me That Wine
+Singer:  Marcus Kang
+```
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+    <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <source src="/assets/00-harmonics/06_Clutch_Wine_Bb3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
+
+### Pitch - G4
+
+```
+Quartet: Midtown
+Song:    Spider-Farm
+Singer:  Anthony Fortino
+```
+
+<div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
+    <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+        <source src="/assets/00-harmonics/05_Midtown_Spiderfarm_G4.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
+
+
+
 ## Observation 
 
 ### Every note that we perceive is made up of dozens of individual notes which we call harmonics 
