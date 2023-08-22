@@ -27,6 +27,7 @@ us visualize the audio from our above sample.
         Your browser does not support the video tag.
     </video>
 </div>
+<div style="margin-top: 10px;"> <!-- just a bit of space after the video --> </div>
 
 A bit of orientation to the VoceVista window (as we'll be using it heavily) also known
 as a [spectrogram](https://en.wikipedia.org/wiki/Spectrogram):
