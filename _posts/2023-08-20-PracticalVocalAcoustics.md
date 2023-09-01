@@ -35,8 +35,9 @@ The settings used in VoceVista are below:
 ### Exploration 2: The effect of mode of phonation and range on source harmonics
 
 In this example, we adjust the amplitudes of each ascending harmonic by adjusting the 
-Tilt. The higher the number (most negative), the slower the decrease in amplitude for 
-each overtone. The lower the number, the faster the decrease in amplitude for each overtime.
+Tilt. The higher the number (least negative), the slower the decrease in amplitude for 
+each overtone. The lower the number (most negative), the faster the decrease in amplitude 
+for each overtime.
 
 This example uses the following tilt numbers. These numbers can be seen as levels of 
 compression of the modeled vocal folds.
