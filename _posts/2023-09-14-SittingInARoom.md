@@ -14,7 +14,7 @@ same passage and recorded the recording. By repeating this numerous times, the a
 resonant frequencies of the room can be found.
 
 Here is the last minute of the piece (when the resonant freqencies are most apparent). Notice 
-that the resonant frequencies do not move generally and only increase and decrease in amplitude.
+that the resonant frequencies do not move and only increase and decrease in amplitude.
 
 <div style="position: relative; overflow: hidden; width: 100%; padding-top: 56.25%;">
     <video controls style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
